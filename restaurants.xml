@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RestaurantList>
+
+    <Restaurant>
+        <RestaurantId>0</RestaurantId>
+        <RestaurantName>Kabana</RestaurantName>
+        <RestaurantCuisine>Indian</RestaurantCuisine>
+        <RestaurantCity>Berkeley</RestaurantCity>
+        <RestaurantOpen>12pm</RestaurantOpen>
+        <RestaurantClose>9pm</RestaurantClose>
+    </Restaurant>
+
+
+    <Restaurant>
+        <RestaurantId>1</RestaurantId>
+        <RestaurantName>Cheeseboard</RestaurantName>
+        <RestaurantCuisine>Italian</RestaurantCuisine>
+        <RestaurantCity>Berkeley</RestaurantCity>
+        <RestaurantOpen>11am</RestaurantOpen>
+        <RestaurantClose>8pm</RestaurantClose>
+    </Restaurant>
+
+    <Restaurant>
+        <RestaurantId>2</RestaurantId>
+        <RestaurantName>The Butcher's Son</RestaurantName>
+        <RestaurantCuisine>American</RestaurantCuisine>
+        <RestaurantCity>Berkeley</RestaurantCity>
+        <RestaurantOpen>9am</RestaurantOpen>
+        <RestaurantClose>3pm</RestaurantClose>
+    </Restaurant>
+
+</RestaurantList>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT RestaurantList (Restaurant+)>
+
+<!ELEMENT Restaurant (RestaurantId, RestaurantName, RestaurantCuisine, RestaurantCity, RestaurantOpen, RestaurantClose)>
+<!ELEMENT RestaurantId (#PCDATA)>
+<!ELEMENT RestaurantName (#PCDATA)>
+<!ELEMENT RestaurantCuisine (#PCDATA)>
+<!ELEMENT RestaurantCity (#PCDATA)>
+<!ELEMENT RestaurantOpen (#PCDATA)>
+<!ELEMENT RestaurantClose (#PCDATA)>

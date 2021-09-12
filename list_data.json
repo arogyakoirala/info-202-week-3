@@ -1,33 +1,28 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
-	},
-	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
-	},
-	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
-	},
-	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
-	},
-	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
-	}]
-	
+	"tourist_hotspots": [
+		{
+			"Name": "Pokhara",
+			"Description": "Pokhara is a city in western Nepal. Also known as the gateway to the Annapurna Circuit, Pokhara is a tourist city which attracts adventurers from all over the world.",
+			"Location": "Kaski, Nepal",
+			"Things to do": ["Hike to Sarangkot", "Paragliding", "Mountain and microlight aircraft flight", "Devi's falls", "Cycling to Pame"]
+		},
+		{
+			"Name": "Bandipur",
+			"Description": "Bandipur is a small hilltop village in Tanahun district (about 4-5 hrs away from Kathmandu). Over the last few years, efforts to preserve Bandipur's cultural heritage has seen it grow as a popular destination for tourism. ",
+			"Location": "Tanahun, Nepal",
+			"Things to do": ["Rock Climbing", "Thani Mai Temple", "Siddha Caves", "Cable car ride to Manakamana Temple"]
+		},
+		{
+			"Name": "Chitwan National Park",
+			"Description": "The first National Park of Nepal is home to the Royal Bengal Tiger and the One-horned Rhinocerous. Located only four hours away from Kathmandu, Chitwan is a great weekend getaway to escape chilly kathmandu winters.",
+			"Location": "Chitwan, Nepal",
+			"Things to do": ["Jungle Safari", "Bath with elephant", "Village walk", "Canoe ride"]
+		},
+		{
+			"Name": "Hanumandhoka Durbar Square",
+			"Description": "The historic five-acre complex sitting at the heart of Kathmandu valley was once home to the kings and queens that ruled over Kathmandu and the surrounding regions. Designated as a UNESCO world heritage site, Hanuman Dhoka is a timeless memorabilia of Nepali art, architecture, culture, and tradition. A must-visit. Also check out Patan Durbar Square and Bhaktapur Durbar Square",
+			"Location": "Kathmandu, Nepal",
+			"Things to do": ["Heritage and Temple Walk", "Souvenir shopping at Thamel", "Photography", "Royal Palace Museum"]
+		}
+	]
 }
